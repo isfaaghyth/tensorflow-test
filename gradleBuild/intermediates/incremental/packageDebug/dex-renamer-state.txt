@@ -1,0 +1,7 @@
+#Sun Feb 18 22:13:44 WIB 2018
+base.0=/Users/bukalapak/LearningTensorFlow/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_84577db4de8a650d9bffca0401cd856599d75cfb
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/bukalapak/LearningTensorFlow/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fd9bbcf5d0390a9cb090553bfa3757c1235ee17e/classes.dex
+base.1=/Users/bukalapak/LearningTensorFlow/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fd9bbcf5d0390a9cb090553bfa3757c1235ee17e
+file.0=/Users/bukalapak/LearningTensorFlow/tensorflow-for-poets-2/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_84577db4de8a650d9bffca0401cd856599d75cfb/classes.dex

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/bukalapak/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/ic_action_info.png",
+        "source": "/Users/bukalapak/tensorflow-for-poets-2/android/res/drawable-hdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/Users/bukalapak/LearningTensorFlow/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/ic_action_info.png",
+        "source": "/Users/bukalapak/LearningTensorFlow/tensorflow-for-poets-2/android/res/drawable-hdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/Users/bukalapak/LearningTensorFlow/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/bukalapak/LearningTensorFlow/tensorflow-for-poets-2/android/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bukalapak/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/Users/bukalapak/tensorflow-for-poets-2/android/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/bukalapak/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/bukalapak/tensorflow-for-poets-2/android/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bukalapak/LearningTensorFlow/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/Users/bukalapak/LearningTensorFlow/tensorflow-for-poets-2/android/res/drawable-hdpi/tile.9.png"
+    }
+]
